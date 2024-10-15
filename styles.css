@@ -1,13 +1,13 @@
 h1{
-    color: red;
+    color: #ff0000;
 }
 
 .main-text{
-    background-color: chocolate ;
+    background-color: hsl(25, 75%, 47%) ;
 }
 
 .color-green{
-    color: green;
+    color: hwb(120 0% 50%);
 }
 
 #lorem-text1{
