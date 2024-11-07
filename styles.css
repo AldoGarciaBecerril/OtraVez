@@ -1,9 +1,9 @@
 body{
-/*     background-image: url(https://picsum.photos/1200);
+    /* background-image: url(https://picsum.photos/1200); */
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed; */
-    background: url(https://picsum.photos/1200); no-repeat center center fixed;
+    background-attachment: fixed;
+    background: url(https://picsum.photos/1200);
     background-size: cover;
 }
 
